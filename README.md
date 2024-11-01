@@ -104,31 +104,32 @@ The project is divided into client and server sections:
 ## Screenshots
 
 ### Landing Page
-(./client/public/assets/screenshots/landing.png)
+![Landing Page](./client/public/assets/screenshots/landing.png)
 
 ### Login Page
-(./client/public/assets/screenshots/Auth0.png)
+![Login Page](./client/public/assets/screenshots/Auth0.png)
 
 ### Chat Interface
-(./client/public/assets/screenshots/Chatbot.png)
+![Chat Interface](./client/public/assets/screenshots/Chatbot.png)
 
 ### Casual Conversation
-(./client/public/assets/screenshots/conversation.png)
+![Casual Conversation](./client/public/assets/screenshots/conversation.png)
 
 ### Adding File (Pdf/Video)
-(./client/public/assets/screenshots/addFile.png)
+![Casual Conversation](./client/public/assets/screenshots/addFile.png)
 
 ### Adding Character
-(./client/public/assets/screenshots/characters.png)
+![Character](./client/public/assets/screenshots/characters.png)
 
 ### Asking doubt and expecting answer in the tone of added character
-(./client/public/assets/screenshots/asking.png)
+![Asking Doubt](./client/public/assets/screenshots/asking.png)
 
 ### Voice Support
-(./client/public/assets/screenshots/voice.png)
+![Voice Support](./client/public/assets/screenshots/voice.png)
 
 ### Multilingual Support (currently three languages supported: English, Hindi, Gujarati)
-(./client/public/assets/screenshots/multilingual.png)
+![Multilingual Support](./client/public/assets/screenshots/multilingual.png)
+
 
 
 
